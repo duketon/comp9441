@@ -1,4 +1,4 @@
 {
-  "version": 123,
+  "version": "sth-123.0",
   "foo": "bar"
 }
