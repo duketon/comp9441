@@ -1,4 +1,4 @@
 {
-  "version": "sth-123.0",
-  "foo": "bar"
+  "foo": "bar",
+  "version": "release-1"
 }
